@@ -1,1 +1,2 @@
 Meus teste se der certo ok estou aprendendo 
+Esta linha nao foi feita pelo cmd .Foi feita direto pelo github do teste pelo chat gpt
